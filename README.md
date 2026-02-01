@@ -1,4 +1,6 @@
 ## Sage Backend Server
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsage.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsage?ref=badge_shield)
+
 The Sage Backend Server is designed to power the [Sage VS Code Extension](https://marketplace.visualstudio.com/items?itemName=NanoNaut.sage-ai). It provides essential services such as code refactoring, bug analysis, test generation, and documentation generation.
 
 ## Features
@@ -41,3 +43,7 @@ Replace `YOUR_OPENAI_API_KEY` with your actual **OpenAI** API key and `YOUR_OPEN
 npm run start
 ```
 The server will start and by default listen on http://localhost:3000.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsage.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fsage?ref=badge_large)
